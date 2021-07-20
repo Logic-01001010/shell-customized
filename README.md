@@ -1,3 +1,3 @@
-# shell-motd
+# shell-customized
 
-dir path: ~/../usr/etc/profile.d/
+motd dir path: ~/../usr/etc/profile.d/
