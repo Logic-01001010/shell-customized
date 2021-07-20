@@ -1,4 +1,3 @@
 # shell-motd
 
-dir path
-~/../usr/etc/profile.d/
+dir path: ~/../usr/etc/profile.d/
